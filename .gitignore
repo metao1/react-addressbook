@@ -1,4 +1,6 @@
 .idea
-*.js
+server.js
+simulator.js
+feed-socket.js
 bower_components
 node_modules
