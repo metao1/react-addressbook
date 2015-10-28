@@ -10,10 +10,9 @@ Refers to my blog post [react address book - a static web application](http://bl
     cd react-addressbook
     npm install
     bower install --verbose
-    cd react-addressbook-app
     python -m SimpleHTTPServer
     #or simply run index.html
     
 ```
 ## If you ran it under python server otherwise simply run index.html
-## Browse in http://localhost:8000 
+## Browse in (http://localhost:8000) 

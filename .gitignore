@@ -3,4 +3,5 @@
 .simulator.js
 bower_components
 node_modules
+react-addressbook
 .gitignore
