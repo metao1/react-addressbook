@@ -3,6 +3,14 @@ Refers to my blog post [react address book - a static web application](http://bl
 ##[Demo](http://metao.ir/react-addressbook)
 ![Screen_Shot](http://metao.ir/react-addressbook/img/react-address-book.png)
 
+#Simple Install
+```shell
+
+wget https://raw.githubusercontent.com/metao1/react-addressbook/master/install.sh -O install.sh && chmod +x install.sh && ./install.sh
+
+````
+
+
 # Install & Run
 
 ```
@@ -15,4 +23,4 @@ Refers to my blog post [react address book - a static web application](http://bl
     
 ```
 ## If you ran it under python server otherwise simply run index.html
-## Browse in (http://localhost:8000) 
+## Browse in [link](http://localhost:8000) 
