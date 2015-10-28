@@ -6,7 +6,9 @@ Refers to my blog post [react address book - a static web application](http://bl
 #Simple Install
 ```shell
 
-wget https://raw.githubusercontent.com/metao1/react-addressbook/master/install.sh -O install.sh && chmod +x install.sh && ./install.sh
+git clone https://github.com/metao1/react-addressbook.git
+cd react-addressbook
+sh install.sh
 
 ````
 
